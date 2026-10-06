@@ -2316,3 +2316,7 @@ button:focus-visible {
     padding: 24px;
   }
 }
+
+.leadership-number {
+  display: none;
+}
