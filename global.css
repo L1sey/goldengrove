@@ -4,11 +4,11 @@
 ========================================================= */
 
 :root {
-  --forest-950: #061d16;
-  --forest-900: #0b3023;
-  --forest-800: #124532;
-  --forest-700: #1d5e45;
-  --forest-600: #32785a;
+ --forest-950: #123c30;
+--forest-900: #1b4d3d;
+--forest-800: #28634f;
+--forest-700: #3a7962;
+--forest-600: #55947a;
 
   --gold-700: #9c6e13;
   --gold-600: #bb861e;
@@ -2319,4 +2319,23 @@ button:focus-visible {
 
 .leadership-number {
   display: none;
+}
+
+.shop-action {
+  margin-top: 35px;
+  text-align: center;
+}
+
+/* Cleaner top navigation */
+
+.nav-links {
+  gap: 20px;
+}
+
+.nav-links a {
+  font-size: 13px;
+}
+
+.nav-contact-btn {
+  padding: 10px 18px;
 }
